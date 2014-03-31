@@ -9,4 +9,4 @@ Usage
 
 Reference
 ---------
-proc filesystem, /proc/<pid>/status
+proc filesystem, `/proc/<pid>/status`
