@@ -7,7 +7,7 @@
 
 #define PROC_DIR_PATH           "/proc"
 #define PROC_PID_STAT_FILE      "status"
-#define MAX_PROC_LIST_SIZE      100
+#define MAX_PROC_LIST_SIZE      1024
 
 #define ANSI_COLOR_INVERT       "\x1b[7m"
 #define ANSI_COLOR_RED          "\x1b[31m"
