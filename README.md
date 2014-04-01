@@ -7,6 +7,10 @@ Usage
     topswapcore | less
     topswap
 
+Screenshots
+-----------
+![alt tag](https://raw.github.com/tzyluen/topswap/master/topswap1.png)
+
 Reference
 ---------
 1. `proc` filesystem, `/proc/<pid>/status`
